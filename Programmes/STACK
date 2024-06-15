@@ -1,0 +1,3 @@
+LDS #$000A
+PSHS A,X,B
+end
